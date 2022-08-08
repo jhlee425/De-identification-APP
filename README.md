@@ -9,10 +9,11 @@
 
 ```
 @inproceedings{deng2019retinaface,
-title={RetinaFace: Single-stage Dense Face Localisation in the Wild},
-author={Deng, Jiankang and Guo, Jia and Yuxiang, Zhou and Jinke Yu and Irene Kotsia and Zafeiriou, Stefanos},
-booktitle={arxiv},
-year={2019}
+  title={RetinaFace: Single-stage Dense Face Localisation in the Wild},
+  author={Deng, Jiankang and Guo, Jia and Yuxiang, Zhou and Jinke Yu and Irene Kotsia and Zafeiriou, Stefanos},
+  booktitle={arxiv},
+  year={2019}
+}
 ```
 ```
 @inproceedings{deng2020retinaface,
